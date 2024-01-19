@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+    color: black;
+    font-weight: bold ;
+}
+h1{
+    margin-top: 50px;
+    text-align: center;
+    size: 4rem;
+}
+body {
+    background-image: url("./1200px-Busan-subway-110-Jagalchi-station-10-entrance.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    margin: 0; /* To remove default body margin */
+}
+
+h2{
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+button{
+    color: white;
+    background-color: gray;
+    margin-top: 10px;
+    width: 200px;
+    height:40px;
+    border: 2px double black;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-bottom: 80px;
+    display: block;
+   
+}
+p{
+    text-align: center;
+    margin-top: 150px;
+    color:beige;
+    font-weight: bolder;
+    font-size: 2rem;
+}
